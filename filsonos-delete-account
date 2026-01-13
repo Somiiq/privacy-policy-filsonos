@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>طلب حذف الحساب – تطبيق فلس ونص</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f7fa;
+      color: #333;
+      padding: 40px;
+      line-height: 1.8;
+    }
+    .container {
+      max-width: 700px;
+      margin: auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #1E6BFF;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>طلب حذف الحساب – تطبيق فلس ونص</h1>
+
+    <p>
+      يتيح تطبيق <strong>فلس ونص</strong> للمستخدمين إمكانية طلب حذف حسابهم
+      وجميع البيانات المرتبطة به.
+    </p>
+
+    <p>
+      لطلب حذف الحساب، يرجى إرسال بريد إلكتروني إلى:
+    </p>
+
+    <p>
+      <strong>support@filsonos.app</strong>
+    </p>
+
+    <p>
+      مع مراعاة إرسال الطلب من نفس البريد الإلكتروني المستخدم في تسجيل الدخول
+      إلى التطبيق.
+    </p>
+
+    <p>
+      سيتم حذف الحساب والبيانات المرتبطة به خلال مدة لا تتجاوز <strong>7 أيام عمل</strong>.
+    </p>
+  </div>
+</body>
+</html>
